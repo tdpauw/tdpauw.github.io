@@ -3,11 +3,11 @@
 
 <aside class="sidebar bg-dark-cyan white-text">
     <section class="profile">
-        <img class="profile-img" src="{{site.baseurl}}/assets/images/{% if site.pic %}{{ site.pic }}{% else %}profile.png{% endif %}"/>
-        <h1 class="name">{{site.name}}</h1>
-        <h3 class="tagline">{{site.tagline}}</h3>
-        <h3 class="tagline">Continuous Delivery Consultant</h3>
-        <h3 class="tagline">Lean and XP Software Engineer</h3>
+        <img class="profile-img" src="{{site.baseurl}}/assets/images/profile.png"/>
+        <h1 class="name">{{site.data.cv.name}}</h1>
+        {% for title in site.data.cv.titles %}
+        <h3 class="tagline">{{title}}</h3>
+        {% endfor %}
     </section>
 
     <section class="contact">
