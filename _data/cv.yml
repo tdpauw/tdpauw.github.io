@@ -25,3 +25,28 @@ summary: |
   Always searching for the simple solution that fits in my head.
 
   It is a deliberate choice to be a generalist, because more experiences results in more creativity.
+experiences:
+  - company: SWIFT, La Hulpe, Belgium
+    period: Jan 2017 - Present
+    title: Continuous Delivery Consultant
+    description: ""
+  - company: BNP Paribas Fortis
+    period: Mar 2016 - Present
+    title: DevOps awareness Trainer
+    description: |
+      DevOps Awareness Training.
+
+      Giving a half-day introductory training to the DevOps culture for every new Agile team as part of a bigger introductory training to Agile methodologies.
+  - company: ACA-IT Solutions, Gent, Belgium
+    period: Jul 2016 - Nov 2016
+    title: Agile Technical Coach, Softweare Engineer
+    description: |
+      Improved the software delivery flow and reduce the lead time of the software delivery process by:
+
+      * improving the Kanban system by introducing WIP limits
+      * reducing story sizing and improving estimates
+      * enforce the pull mechanism of Kanban
+      * improving the overall software design towards an Hexagonal architecture which improves the decoupling of the software code
+      * improving the testing strategy
+
+      All of this reduced the cycle time of feature branches from several weeks to max. 4 days.
