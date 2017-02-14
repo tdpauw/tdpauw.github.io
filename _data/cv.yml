@@ -12,10 +12,6 @@ linkedin: tdpauw
 twitter: tdpauw
 github: tdpauw
 
-languages:
-  - french: native
-  - dutch: native
-  - english: professional
 
 education:
   - degree: MSc in Electromechanical Engineering
@@ -25,6 +21,48 @@ education:
     school: Sint-Amandusinstituut Gent
     period: 1992 - 1993
 
+languages:
+  - french: native
+  - dutch: native
+  - english: professional
+
+training:
+  - title: Software, faster
+    organisation: Dan North
+    city: Budapest
+    year: 2016
+  - title: FrictionLab
+    organisation: Mary and Tom Poppendieck
+    city: Budapest
+    year: 2016
+  - title: Certified Scrum Master
+    organisation: Agilar
+    city: Gent
+    year: 2012
+  - title: MEGA Application Modeling
+    organisation: KBC
+    city: Leuven
+    year: 2009
+  - title: Advanced OO Programming with .NET 2.0
+    organisation: U2U
+    city: Bruxelles
+    year: 2006
+  - title: Project Management
+    organisation: Cefora
+    city: Bruxelles
+    year: 2006
+  - title: PMI Project Management Fundamentals
+    organisation: Threon
+    city: Bruxelles
+    year: 2006
+  - title: 'J2EE: Enterprise Java with WebSphere'
+    organisation: Abis
+    city: Leuven
+    year: 2004
+  - title: Programming .NET Enterprise Applications
+    organisation: U2U
+    city: Bruxelles
+    year: 2003
 
 summary: |
   Agile Technical Coach helping teams in adopting the necessary technical practices to deliver higher quality products at a higher speed and at lower costs.
@@ -45,7 +83,7 @@ experiences:
   - company: SWIFT, La Hulpe, Belgium
     period: Jan 2017 - Present
     title: Continuous Delivery Consultant
-    description: ""
+    description: ''
 
   - company: BNP Paribas Fortis
     period: Mar 2016 - Present
@@ -55,7 +93,7 @@ experiences:
 
       Giving a half-day introductory training to the DevOps culture for every new Agile team as part of a bigger introductory training to Agile methodologies.
 
-  - company: ThinkingLabs
+  - company: ThinkingLabs, Gent, Belgium
     period: Sept 2015 - Present
     title: Founder
     description: |
@@ -79,13 +117,13 @@ experiences:
 
       All of this reduced the cycle time of feature branches from several weeks to max. 4 days.
 
-  - company: BNP Paribas Fortis
+  - company: BNP Paribas Fortis, Bruxelles, Belgium
     period: Jan 2016 - Jan 2016
     title: Front-End Development Trainer
     description: |
       Training a group of people from BNP Paribas Fortis in adopting front-end development skills - JavaScript, HTML, CSS, Node.js, jQuery, React - and build tools like Grunt, Gulp and Webpack.
 
-  - company: SWIFT
+  - company: SWIFT, La Hulpe, Belgium
     period: Sept 2015 - Jun 2016
     title: Continuous Delivery Consultant - Architect
     description: |
@@ -105,13 +143,13 @@ experiences:
 
       Finally I was asked to advise on the future reference architecture for production applications and to advocate Continuous Delivery.
 
-  - company: Acsone
+  - company: Acsone, Bruxelles, Belgium
     period: Apr 2015 - Oct 2015
     title: AngularJS Coach
     description: |
       Reviewing an AngularJS application and coaching the AngularJS developments through pair-programming.
 
-  - company: Bru Textiles
+  - company: Bru Textiles, Kontich, Belgium
     period: Mar 2014 - Sept 2015
     title: Agile Technical Coach
     description: |
@@ -122,7 +160,7 @@ experiences:
 
       Most of the coaching happened in a pair programming mode and in providing advice to the software development managers.
 
-  - company: SWIFT
+  - company: SWIFT, La Hulpe, Belgium
     period: Feb 2012 - Jun 2015
     title: Agile Technical Coach
     description: |
@@ -142,7 +180,7 @@ experiences:
 
       - Jenkins, Nexus, Sonar, JIRA, Crucible for code reviews, Git/Stash (now BitBucket Server) for version control, Maven as a build tool, a wiki for documentation and knowledge sharing, ...
 
-  - company: Inventive Designers
+  - company: Inventive Designers, Antwerpen, Belgium
     period: Feb 2010 - Dec 2011
     title: Senior Software Engineer
     description: |
@@ -155,7 +193,7 @@ experiences:
 
       Scriptura is developed in an agile way, releasing every 4 weeks a new version to the customers.
 
-  - company: KBC
+  - company: KBC, Leuven, Belgium
     period: Sept 2009 - Mar 2010
     title: Senior Technical Designer
     description: |
@@ -163,7 +201,7 @@ experiences:
 
       During the project I've set up the technical foundations for unit testing, performance testing, performing database accesses and deploying the modules in an automated way as well as updating the technical documentation for these modules.
 
-  - company: BPost
+  - company: BPost, Bruxelles, Belgium
     period: Feb 2009 - May 2009
     title: Senior .NET Software Engineer
     description: |
@@ -171,7 +209,7 @@ experiences:
 
       Reverse engineering of old VB script wizards and documenting their UML use cases  in order to migrate them into .NET smart client versions.
 
-  - company: Thomsom CompuMark
+  - company: Thomsom CompuMark, Antwerpen, Belgium
     period: May 2007 - Dec 2008
     title: Senior Java Software Engineer
     description: |
@@ -186,7 +224,7 @@ experiences:
       - Aruba: the new integrated online search analysis platform.
         Here I mainly did performance and stability improvements as well as code reviews.
 
-  - company: Tele Atlas (now TomTom)
+  - company: Tele Atlas (now TomTom), Gent, Belgium
     period: Feb 2007 - Apr 2007
     title: Technology Architect
     description: |
@@ -194,7 +232,7 @@ experiences:
 
       Once the process and software designs were set up I did the follow up of the implementation and the rollout into production.
 
-  - company: Software AG Belgium
+  - company: Software AG Belgium, Bruxelles, Belgium
     period: May 2001 - Jan 2007
     title: Software Architect - Senior Software Engineer
     description: |
@@ -208,7 +246,7 @@ experiences:
 
       Inside Software AG Belgium, I was also responsible for the design, implementation and maintenance of an “application development framework” called XOo°f and the knowledge sharing with other software engineers through working groups, coaching and publications.
 
-  - company: DP Europe
+  - company: DP Europe, Bruxelles, Belgium
     period: Oct 2000 - Apr 2001
     title: Consultant
     description: |
@@ -216,7 +254,7 @@ experiences:
 
       And running internal projects to improve the daily management of DP Europe.
 
-  - company: Velleman Switch (now Clicktouch)
+  - company: Velleman Switch (now Clicktouch), Gavere, Belgium
     period: Oct 1998 - Sept 2000
     title: Project Engineer
     description: |
