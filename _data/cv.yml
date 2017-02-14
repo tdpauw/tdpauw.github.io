@@ -26,10 +26,12 @@ summary: |
 
   It is a deliberate choice to be a generalist, because more experiences results in more creativity.
 experiences:
+
   - company: SWIFT, La Hulpe, Belgium
     period: Jan 2017 - Present
     title: Continuous Delivery Consultant
     description: ""
+
   - company: BNP Paribas Fortis
     period: Mar 2016 - Present
     title: DevOps awareness Trainer
@@ -37,6 +39,17 @@ experiences:
       DevOps Awareness Training.
 
       Giving a half-day introductory training to the DevOps culture for every new Agile team as part of a bigger introductory training to Agile methodologies.
+
+  - company: ThinkingLabs
+    period: Sept 2015 - Present
+    title: Founder
+    description: |
+      ThinkingLabs provides:
+        - consultancy around Continuous Integration and Continuous Delivery
+        - and coaching around the adoption all of the technical software engineering practices that will make teams truly agile.
+
+        For more information see [thinkinglabs.io](http://thinkinglabs.io).
+
   - company: ACA-IT Solutions, Gent, Belgium
     period: Jul 2016 - Nov 2016
     title: Agile Technical Coach, Software Engineer
@@ -50,3 +63,152 @@ experiences:
       * improving the testing strategy
 
       All of this reduced the cycle time of feature branches from several weeks to max. 4 days.
+
+  - company: BNP Paribas Fortis
+    period: Jan 2016 - Jan 2016
+    title: Front-End Development Trainer
+    description: |
+      Training a group of people from BNP Paribas Fortis in adopting front-end development skills - JavaScript, HTML, CSS, Node.js, jQuery, React - and build tools like Grunt, Gulp and Webpack.
+
+  - company: SWIFT
+    period: Sept 2015 - Jun 2016
+    title: Continuous Delivery Consultant - Architect
+    description: |
+      OASIS project: Operations and Support Intelligence System
+
+      The goal of the project was to set up an enterprise wide monitoring platform to monitor SWIFT's core applications that run the messaging trafic and to centralise all application logs.
+      It was run using Lean Startup principles: define a hypothesis, try something out and see if the hypothesis is validated. As a result we pivoted a lot based on the information we received from internal customers.
+      The project consisted of a core team of 4 people and an extended virtual team of volunteers coming from different departments.
+
+      My contribution to the project consisted of:
+
+      - setting up a distributed environment to collect, analyse and aggregate events coming from production systems to pro-actively monitor production
+      - coach the development team and evolve the continuous delivery infrastructure
+      - provide external, objective advice on technology choices & changes that affect business, support and operations
+      - selecting and interviewing new hires for Kuala Lumpur to set up a remote team.
+      - doing myself remote work
+
+      Finally I was asked to advise on the future reference architecture for production applications and to advocate Continuous Delivery.
+
+  - company: Acsone
+    period: Apr 2015 - Oct 2015
+    title: AngularJS Coach
+    description: |
+      Reviewing an AngularJS application and coaching the AngularJS developments through pair-programming.
+
+  - company: Bru Textiles
+    period: Mar 2014 - Sept 2015
+    title: Agile Technical Coach
+    description: |
+      Coaching a software development team on adopting
+
+      - XP programming principles like TDD, BDD, Pair Programming and
+      - Continuous Delivery.
+
+      Most of the coaching happened in a pair programming mode and in providing advice to the software development managers.
+
+  - company: SWIFT
+    period: Feb 2012 - Jun 2015
+    title: Agile Technical Coach
+    description: |
+      Coaching a team of 10 people responsible for approximately 15 applications in improving their software engineering skills and planning of their work by:
+
+      - introducing XP principles, like TDD, Automated Acceptance Tests, Pair Programming, automatic code quality analysis, peer code reviews, introducing a decoupled architecture
+      - adopting Continuous Delivery,
+      - and introducing Scrum as an agile project management methodology.
+
+      The coaching consisted of both defining development guidelines and best practices, defining application architectures, defining deployment and release procedures, automating these procedures, as well as pair programming.
+
+      Facilitating retrospectives and leading continuous improvement.
+
+      Running interviews for recruiting new hires.
+
+      During the mission we introduced at enterprise level the following tooling:
+
+      - Jenkins, Nexus, Sonar, JIRA, Crucible for code reviews, Git/Stash (now BitBucket Server) for version control, Maven as a build tool, a wiki for documentation and knowledge sharing, ...
+
+  - company: Inventive Designers
+    period: Feb 2010 - Dec 2011
+    title: Senior Software Engineer
+    description: |
+      Apart from defining and implementing major new functionalities for Scriptura, I
+
+      - reviewed and improved the database architecture behind Scriptura,
+      - did performance analysis of the document flow component to find bottlenecks,
+      - resolved lots of deadlock problems,
+      - prepared the migration from CVS to Git
+
+      Scriptura is developed in an agile way, releasing every 4 weeks a new version to the customers.
+
+  - company: KBC
+    period: Sept 2009 - Mar 2010
+    title: Senior Technical Designer
+    description: |
+      I was hired as Java Expert to migrate what is called “the applicative infrastructure modules” (a set of helper functions for date calculations) from Mainframe/COBOL/DB2 to Unix/Java/Oracle.
+
+      During the project I've set up the technical foundations for unit testing, performance testing, performing database accesses and deploying the modules in an automated way as well as updating the technical documentation for these modules.
+
+  - company: BPost
+    period: Feb 2009 - May 2009
+    title: Senior .NET Software Engineer
+    description: |
+      Developing new functionalities for PostStation - the front-end application used by all Postal offices and the Postal retail points;
+
+      Reverse engineering of old VB script wizards and documenting their UML use cases  in order to migrate them into .NET smart client versions.
+
+  - company: Thomsom CompuMark
+    period: May 2007 - Dec 2008
+    title: Senior Java Software Engineer
+    description: |
+      During my time at Thomson CompuMark, I worked on several web application projects:
+
+      - XML Associates:  a totally new web application to support the workflow of XML trademark search reports submitted by foreign associates.
+        This project has entirely been designed and implemented by myself; which means I did all the tasks from the communication with the internal customers, requirements gathering through the technical design, implementation, coordination of required developments on third-party applications and deployment coordination as well as reporting upon the project status.
+
+      - Online Watch: a redesign of the web UI for the online watch analysis tool used by customers for analysing their trademark watch requests.
+        Together with a team of 4 we redesigned the UI of the application. As a technical leader I assisted the project leader with the technical choices of the project, the implementation and the deployment coordination.
+
+      - Aruba: the new integrated online search analysis platform.
+        Here I mainly did performance and stability improvements as well as code reviews.
+
+  - company: Tele Atlas (now TomTom)
+    period: Feb 2007 - Apr 2007
+    title: Technology Architect
+    description: |
+      Translating the needs coming from internal and external customers as well as new requests and problem reports into new process proposals or process improvement proposals and software designs which are then used in the production environment for creating Digital Maps.
+
+      Once the process and software designs were set up I did the follow up of the implementation and the rollout into production.
+
+  - company: Software AG Belgium
+    period: May 2001 - Jan 2007
+    title: Software Architect - Senior Software Engineer
+    description: |
+      Delivering fixed price projects for Software AG Belgium's customers.
+
+      On these projects I had at different times different roles like Software Engineer, Project Leader or Architect.
+
+      As Project Leader and Architect I did the project planning, follow-up of the implementation, coaching, development and was deeply involved in the technical and architectural choices.
+
+      I realised XML-based Document Management, XML Integration and Multi-Tier Enterprise Business projects in various domains like Government, Car Leasing, Pharmaceutical, Bank & Insurance and Industry.
+
+      Inside Software AG Belgium, I was also responsible for the design, implementation and maintenance of an “application development framework” called XOo°f and the knowledge sharing with other software engineers through working groups, coaching and publications.
+
+  - company: DP Europe
+    period: Oct 2000 - Apr 2001
+    title: Consultant
+    description: |
+      Help customer's delivering their projects on time.
+
+      And running internal projects to improve the daily management of DP Europe.
+
+  - company: Velleman Switch (now Clicktouch)
+    period: Oct 1998 - Sept 2000
+    title: Project Engineer
+    description: |
+      Designing and implementing administrative software and man-machine user interfaces for the manufacturing tools used by the company;
+
+      investigating new technologies to be incorporated in future membrane switches;
+
+      follow-up of the machinery maintenance;
+
+      and optimisation of the production process.
