@@ -252,8 +252,8 @@ used for profile image
 }
 
 /* Responsive part */
-/* Extra small devices (phones, less than 768px) */
-@media (max-width: 767px) {
+/* Extra small devices (phones, portrait tablet, less than 769px) */
+@media (max-width: 768px) {
   aside {
     position: static;
     width: inherit;
@@ -270,7 +270,7 @@ used for profile image
     margin-bottom: 0;
   }
 }
-/* Small devices (tablets, 768px and up) */
+/* Small devices (tablets, 769px and up) */
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
   .skillset .level-title {
