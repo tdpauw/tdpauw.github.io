@@ -6,7 +6,9 @@
       {% if item.organisation %}
       <h5 class="organisation">{{item.organisation}}</h5>
       {% endif %}
+      {% if item.year %}
       <div class="year">{{item.year}}</div>
+      {% endif %}
   </div><!--//item-->
   {% endfor %}
 </section>

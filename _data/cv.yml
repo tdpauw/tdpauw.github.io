@@ -27,6 +27,28 @@ languages:
   - english: professional
 
 training:
+  - title: SoCraTes Meetup
+  - title: Lean Coffee Meetup
+  - title: Docker Belgium Meetup
+  - title: Domain Driven Design BE Meetup
+  - title: Continuous Delivery Conference
+    year: 2016
+  - title: SoCraTes France
+    year: 2016
+  - title: CDSummit Amsterdam
+    year: 2016
+  - title: Agile Tour Brussels
+    year: 2016
+  - title: SWIFT BE IT TechDay
+    organisation: SWIFT
+    city: La Hulpe
+    year: 2016
+  - title: ITAKE Unconference, Bucharest
+    year: 2016
+  - title: Continuous Lifecycle London
+    year: 2016
+  - title: Craft Conf, Budapest
+    year: 2016
   - title: Software, faster
     organisation: Dan North
     city: Budapest
@@ -35,6 +57,24 @@ training:
     organisation: Mary and Tom Poppendieck
     city: Budapest
     year: 2016
+  - title: Pipeline Conf, London
+    year: 2016
+  - title: Domain Driven Design Europe, Brussels
+    year: 2016
+  - title: XP Days Benelux, Mechelen
+    year: 2015
+  - title: Agile Tour Brussels
+    year: 2015
+  - title: Arrrcamp, Gent
+    year: 2015
+  - title: Docker Days, Gent
+    year: 2015
+  - title: XP Days Benelux, Eindhoven
+    year: 2014
+  - title: DevOpsDays Ghent
+    year: 2014
+  - title: Devoxx, Antwerp
+    year: 2013
   - title: DITA Open Toolkit
     organisation: SWIFT
     city: La Hulpe
@@ -43,10 +83,28 @@ training:
     organisation: SWIFT
     city: La Hulpe
     year: 2013
+  - title: Devoxx, Antwerp
+    year: 2012
+  - title: Agile Tour Brussels
+    year: 2012
+  - title: XML Prague
+    year: 2012
   - title: Certified Scrum Master
     organisation: Agilar
     city: Gent
     year: 2012
+  - title: Devoxx, Antwerp
+    year: 2011
+  - title: XP Days Benelux, Mechelen
+    year: 2011
+  - title: Agile Open Space, Ghent
+    year: 2011
+  - title: NoSQL Summer, Ghent
+    organisation: Outerthought
+    year: 2010
+  - title: Spring Core
+    organisation: Zenika
+    year: 2009
   - title: MEGA Application Modeling
     organisation: KBC
     city: Leuven
@@ -63,6 +121,8 @@ training:
     organisation: Threon
     city: Bruxelles
     year: 2006
+  - title: Microsoft Developer Days, Ghent
+    year: 2005
   - title: 'J2EE: Enterprise Java with WebSphere'
     organisation: Abis
     city: Leuven
@@ -93,7 +153,7 @@ experiences:
     title: Continuous Delivery Consultant
     description: ''
 
-  - company: BNP Paribas Fortis
+  - company: BNP Paribas Fortis, Bruxelles, Belgium
     period: Mar 2016 - Present
     title: DevOps awareness Trainer
     description: |
