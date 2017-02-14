@@ -3,7 +3,9 @@
   {% for item in site.data.cv.training %}
   <div class="item">
       <h4 class="title">{{item.title}}</h4>
+      {% if item.organisation %}
       <h5 class="organisation">{{item.organisation}}</h5>
+      {% endif %}
       <div class="year">{{item.year}}</div>
   </div><!--//item-->
   {% endfor %}

@@ -35,6 +35,14 @@ training:
     organisation: Mary and Tom Poppendieck
     city: Budapest
     year: 2016
+  - title: DITA Open Toolkit
+    organisation: SWIFT
+    city: La Hulpe
+    year: 2013
+  - title: Responsive Design
+    organisation: SWIFT
+    city: La Hulpe
+    year: 2013
   - title: Certified Scrum Master
     organisation: Agilar
     city: Gent
