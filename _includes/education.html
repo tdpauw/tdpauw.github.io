@@ -1,8 +1,10 @@
 <section class="education">
   <h2>Education</h2>
+  {% for item in site.data.cv.education %}
   <div class="item">
-      <h4 class="degree">MSc in Electromechanical Engineering</h4>
-      <h5 class="meta">University of Gent</h5>
-      <div class="period">1992 - 1998</div>
+      <h4 class="degree">{{item.degree}}</h4>
+      <h5 class="school">{{item.school}}</h5>
+      <div class="period">{{item.period}}</div>
   </div><!--//item-->
+  {% endfor %}
 </section>

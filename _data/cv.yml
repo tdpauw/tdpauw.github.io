@@ -11,6 +11,16 @@ speakerdeck: tdpauw
 linkedin: tdpauw
 twitter: tdpauw
 github: tdpauw
+
+education:
+  - degree: MSc in Electromechanical Engineering
+    school: University of Gent
+    period: 1993 - 1998
+  - degree: Special Scientific Training
+    school: Sint-Amandusinstituut Gent
+    period: 1992 - 1993
+
+
 summary: |
   Agile Technical Coach helping teams in adopting the necessary technical practices to deliver higher quality products at a higher speed and at lower costs.
 
