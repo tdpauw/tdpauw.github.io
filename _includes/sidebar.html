@@ -10,29 +10,7 @@
         {% endfor %}
     </section>
 
-    <section class="contact">
-        <ul class="list-unstyled contact-list">
-
-            <li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.data.cv.email}}">{{site.data.cv.email}}</a></li>
-
-            <li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}">{{site.data.cv.phone}}</a></li>
-
-            <li class="website"><i class="fa fa-globe"></i><a href="http://{{site.data.cv.website}}" target="_blank">{{site.data.cv.website}}</a></li>
-
-            <li class="speakerdeck"><i class="fa fa-slideshare"></i><a href="https://speakerdeck.com/{{site.data.cv.speakerdeck}}" target="_blank">speakerdeck.com/{{site.data.cv.speakerdeck}}</a></li>
-
-            <li class="goodreads">
-              <i class="fa fa-book"></i>
-              <a href="https://goodreads.com/{{site.data.cv.goodreads}}" target="_blank">goodreads.com/{{site.data.cv.goodreads}}</a></li>
-
-            <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://in.linkedin.com/in/{{site.data.cv.linkedin}}" target="_blank">linkedin.com/in/{{site.data.cv.linkedin}}</a></li>
-
-            <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">github.com/{{site.data.cv.github}}</a></li>
-
-            <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/{{site.twitter}}" target="_blank">{{site.data.cv.twitter}}</a></li>
-
-        </ul>
-    </section>
+   {% include contacts.html %}
    {% include education.html %}
    {% include language.html %}
    {% include conferences.html %}
