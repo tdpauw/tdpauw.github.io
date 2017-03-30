@@ -58,6 +58,8 @@ training:
   - title: Lean Coffee Meetup
   - title: Docker Belgium Meetup
   - title: Domain Driven Design BE Meetup
+  - title: Pipeline
+    year: 2017
   - title: Continuous Delivery Conference NL
     year: 2016
   - title: SoCraTes France
