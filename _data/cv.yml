@@ -27,12 +27,38 @@ languages:
   - dutch: native
   - english: professional
 
+conferences:
+  - title: 'Upcoming: XP2017'
+    year: 2017
+    link: 'https://xp2017.sched.com/event/9NLF/feature-branching-is-evil'
+  - title: Continuous Delivery Conference NL
+    year: 2016
+    link: 'http://thinkinglabs.io/talks/cdconfnl-2016-feature-branching-is-evil'
+  - title: Agile Tour Brussels
+    year: 2016
+    link: 'http://thinkinglabs.io/talks/atbru-2016-continuous-delivery-is-more-than-just-tooling-its-a-mindset'
+  - title: CDSummit Amsterdam
+    year: 2016
+    link: 'http://thinkinglabs.io/talks/cd-summit-amsterdam-2016-continuous-delivery-is-more-than-just-tooling-its-a-mindset'
+  - title: ITake Unconference
+    year: 2016
+    link: 'http://thinkinglabs.io/talks/itake-unconference-2016-continuous-delivery-is-more-than-just-tooling-its-a-culture'
+  - title: Continuous Lifecycle London
+    year: 2016
+    link: 'http://thinkinglabs.io/talks/continuous-lifecycle-london-2016-continuous-delivery-is-more-than-just-tooling-its-a-culture'
+  - title: XPDays Benelux
+    year: 2015
+    link: 'http://thinkinglabs.io/talks/xpdays-benelux-2015-3m-eur-later-moving-a-team-to-become-agile-in-a-company-with-too-much-money'
+  - title: Agile Tour Brussels
+    year: 2015
+    link: 'http://thinkinglabs.io/talks/atbru-2015-facts-and-fallacies-of-continuous-delivery'
+
 training:
   - title: SoCraTes Meetup
   - title: Lean Coffee Meetup
   - title: Docker Belgium Meetup
   - title: Domain Driven Design BE Meetup
-  - title: Continuous Delivery Conference
+  - title: Continuous Delivery Conference NL
     year: 2016
   - title: SoCraTes France
     year: 2016

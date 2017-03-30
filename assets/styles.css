@@ -142,25 +142,25 @@ section.education .period {
   font-weight: 500;
   margin-bottom: 0px;
 }
-section.training h4.title {
+section.training h4.title, section.conferences h4.title {
   font-size: 14px;
   margin-top: 0;
   margin-bottom: 5px;
   text-transform: none;
 }
-section.training .item {
+section.training .item, section.conferences .item {
   margin-bottom: 15px;
 }
-section.training .item:last-child {
+section.training .item:last-child, section.conferences .item:last-child {
   margin-bottom: 0;
 }
-section.training .organisation {
+section.training .organisation, section.conferences .organisation {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 500;
   margin-bottom: 0px;
   margin-top: 0;
 }
-section.training .year {
+section.training .year, section.conferences .year {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 500;
   margin-bottom: 0px;
