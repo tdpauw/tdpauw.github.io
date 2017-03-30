@@ -71,6 +71,10 @@ aside a {
   text-decoration: none;
 }
 
+section.highlights ul li {
+  padding: 2px 0px
+}
+
 section.profile {
   padding: 30px;
   background: rgba(0, 0, 0, 0.2);
