@@ -202,6 +202,12 @@ highlights: |
 
 experiences:
 
+  - company: La Chambre - De Kamer - The Belgian Chamber of Representatives
+    period: Jan 2018 - Present
+    title: DevOps coach
+    description:
+      Helping the IT departement of The Chamber to get High Availability and Resilience in the context of a paperless parliament.
+
   - company: Barco
     period: Sept 2017 - Present
     title: Continuous Integration coach
