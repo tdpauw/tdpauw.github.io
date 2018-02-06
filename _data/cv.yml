@@ -1,8 +1,7 @@
 ---
 name: Thierry de Pauw
 titles:
-  - Agile Technical Coach
-  - Continuous Delivery Consultant
+  - Continuous Delivery coach
   - Lean and XP Software Engineer
 email: thierry@thinkinglabs.io
 phone: +32 499 133 454
@@ -16,10 +15,10 @@ meetup: 18270391
 
 education:
   - degree: MSc in Electromechanical Engineering
-    school: University of Gent
+    school: University of Ghent
     period: 1993 - 1998
   - degree: Special Scientific Training
-    school: Sint-Amandusinstituut Gent
+    school: Sint-Amandusinstituut Ghent
     period: 1992 - 1993
 
 languages:
@@ -28,9 +27,15 @@ languages:
   - english: professional
 
 conferences:
-  - title: 'Upcoming: XP2017'
+  - title: Agile India 2018 (Upcoming)
+    year: 2018
+    link: 'https://2018.agileindia.org/speakers'
+  - title: XPDays Ukraine 2017
     year: 2017
-    link: 'https://xp2017.sched.com/event/9NLF/feature-branching-is-evil'
+    link: 'https://speakerdeck.com/tdpauw/xpdays-ukraine-2017-feature-branching-is-evil'
+  - title: XP 2017
+    year: 2017
+    link: 'https://speakerdeck.com/tdpauw/xp2017-feature-branching-is-evil'
   - title: Continuous Delivery Conference NL
     year: 2016
     link: 'http://thinkinglabs.io/talks/cdconfnl-2016-feature-branching-is-evil'
@@ -56,8 +61,25 @@ conferences:
 training:
   - title: SoCraTes Meetup
   - title: Lean Coffee Meetup
+  - title: BREWT Meetup
   - title: Docker Belgium Meetup
   - title: Domain Driven Design BE Meetup
+  - title: Pipeline 2018 (Upcoming)
+    city: London
+    year: 2018
+  - title: Agile India 2018 (Upcoming)
+    city: Bengaluru
+    year: 2018
+  - title: Visual Facilitation with bikablo
+    organisation: Pyxis
+    city: Ghent
+    year: 2017
+  - title: XPDays Ukraine 2017
+    year: 2017
+  - title: SoCraTes France
+    year: 2017
+  - title: XP 2017
+    year: 2017
   - title: Pipeline
     year: 2017
   - title: Continuous Delivery Conference NL
@@ -94,9 +116,9 @@ training:
     year: 2015
   - title: Agile Tour Brussels
     year: 2015
-  - title: Arrrcamp, Gent
+  - title: Arrrcamp, Ghent
     year: 2015
-  - title: Docker Days, Gent
+  - title: Docker Days, Ghent
     year: 2015
   - title: XP Days Benelux, Eindhoven
     year: 2014
@@ -120,7 +142,7 @@ training:
     year: 2012
   - title: Certified Scrum Master
     organisation: Agilar
-    city: Gent
+    city: Ghent
     year: 2012
   - title: Devoxx, Antwerp
     year: 2011
@@ -169,25 +191,36 @@ summary: |
   I am the founder of [ThinkingLabs](http://thinkinglabs.io), a consultancy around Continuous Integration and Continuous Delivery.
 
 highlights: |
-  - Technical Agile Coach and Certified Scrum Master
-  - Continuous Integration and Continuous Delivery consultant
+  - Continuous Integration and Continuous Delivery consultant and coach
   - Experienced Lean and XP Software Engineer
+  - Coaching of teams on the adoption of the technological skills required to sustainably deliver higher quality products at higher speed, with lower costs, reduced risks and as a by-product higher job satisfaction and less burn-outs
+  - Trainer on Continuous Delivery and the DevOps mindset
   - Software craftsman
   - Occasional conference speaker
-  - Trainer on Continuous Delivery and the DevOps mindset
-  - Coaching of teams around the adoption of all the necessary skills to become truly agile and so deliver higher quality at higher speed, with lower costs, reduced risks and higher job satisfaction
 
 experiences:
 
-  - company: SWIFT, La Hulpe, Belgium
-    period: Jan 2017 - Present
-    title: Continuous Delivery Consultant
-    description: |
-      OASIS project: Operations and Support Intelligence System
+  - company: Barco
+    period: Sept 2017 - Present
+    title: Continuous Integration coach
+    description:
+      Helping 2 teams achieve a state of continuous integration.
 
-      Restarting the project that stopped in June 2016.
+  - company: BNP Paribas Fortis
+    period: Jul 2017 - Nov 2017
+    title: Continuous Delivery coach
+    description: |
+      Helping the bank adopt the technological and organisational changes to achieve a state of continuous delivery in the context of its scaled agile transformation initiative.
+
+  - company: SWIFT, La Hulpe, Belgium
+    period: Jan 2017 - Jun 2017
+    title: Continuous Delivery consultant
+    description: |
+      Rebooting the OASIS project - Operations and Support Intelligence System - that stopped in June 2016.
 
       Setting up the Continuous Delivery pipeline for the monitoring platform.
+      Setting up the big data infrastructure for the monitoring platform.
+      Setting up monitoring of the big data infrastructure.
 
       Coaching the team in adopting lean skills.
 
@@ -199,7 +232,7 @@ experiences:
 
       Giving a half-day introductory training to the DevOps culture for every new Agile team as part of a bigger introductory training to Agile methodologies.
 
-  - company: ThinkingLabs, Gent, Belgium
+  - company: ThinkingLabs, Ghent, Belgium
     period: Sept 2015 - Present
     title: Founder
     description: |
@@ -207,11 +240,11 @@ experiences:
 
         - consultancy around Continuous Integration and Continuous Delivery
         - training around Continuous Delivery and the DevOps mindset
-        - coaching of teams around the adoption of all the necessary technical software engineering practices that will make teams truly agile.
+        - coaching around the adoption of all the technological and organisational practices that together enable a state of Continuous Delivery, i.e. being able to satisfy business demand through frequent product increments that are sufficiently reliable.
 
         For more information see [thinkinglabs.io](http://thinkinglabs.io).
 
-  - company: ACA-IT Solutions, Gent, Belgium
+  - company: ACA-IT Solutions, Ghent, Belgium
     period: Jul 2016 - Nov 2016
     title: Agile Technical Coach, Software Engineer
     description: |
@@ -332,7 +365,7 @@ experiences:
       - Aruba: the new integrated online search analysis platform.
         Here I mainly did performance and stability improvements as well as code reviews.
 
-  - company: Tele Atlas (now TomTom), Gent, Belgium
+  - company: Tele Atlas (now TomTom), Ghent, Belgium
     period: Feb 2007 - Apr 2007
     title: Technology Architect
     description: |
