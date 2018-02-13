@@ -27,6 +27,9 @@ languages:
   - english: professional
 
 conferences:
+  - title: XP 2018 (Upcoming)
+    year: 2018
+    link: 'https://www.agilealliance.org/xp2018/'
   - title: Agile India 2018 (Upcoming)
     year: 2018
     link: 'https://2018.agileindia.org/speakers'
@@ -204,7 +207,7 @@ experiences:
 
   - company: La Chambre - De Kamer - The Belgian Chamber of Representatives
     period: Jan 2018 - Present
-    title: DevOps coach
+    title: DevOps consultant
     description:
       Helping the IT departement of The Chamber to get High Availability and Resilience in the context of a paperless parliament.
 
