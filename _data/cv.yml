@@ -225,6 +225,11 @@ highlights: |
   - Occasional conference speaker
 
 experiences:
+  - company: World Health Organisation
+    period: May 2018 - Present
+    title: Lead Developper
+    description:
+      Helping them define a roadmap for the rewrite of one of their health services costing tools.
 
   - company: La Chambre - De Kamer - The Belgian Chamber of Representatives
     period: Jan 2018 - Present
@@ -233,10 +238,10 @@ experiences:
       Helping the IT departement of The Chamber to get High Availability and Resilience in the context of a paperless parliament.
 
   - company: Barco
-    period: Sept 2017 - Present
+    period: Sept 2017 - May 2018
     title: Continuous Integration coach
     description:
-      Helping 2 teams achieve a state of continuous integration.
+      Helping 2 teams achieve a state of continuous integration + coderetreat trainings about TDD, Legacy Code and SOLID principles.
 
   - company: BNP Paribas Fortis
     period: Jul 2017 - Nov 2017
