@@ -27,18 +27,24 @@ languages:
   - english: professional
 
 conferences:
-  - title: XP 2018 (Upcoming)
+  - title: Lean Agile Scotland (Upcoming)
     year: 2018
-    link: 'https://www.agilealliance.org/xp2018/'
-  - title: Agile India 2018 (Upcoming)
+    link: 'http://leanagile.scot/2018/sessions/index.php?session=31'
+  - title: Journée Agile
     year: 2018
-    link: 'https://2018.agileindia.org/speakers'
-  - title: XPDays Ukraine 2017
+    link: 'http://thinkinglabs.io/talks/journee-agile-2018-feature-branching-is-evil'
+  - title: NewCrafts
+    year: 2018
+    link: 'http://thinkinglabs.io/talks/newcrafts-2018-feature-branching-is-evil'
+  - title: Agile India
+    year: 2018
+    link: 'http://thinkinglabs.io/talks/agile-india-2018-feature=branching-is-evil'
+  - title: XPDays Ukraine
     year: 2017
-    link: 'https://speakerdeck.com/tdpauw/xpdays-ukraine-2017-feature-branching-is-evil'
+    link: 'http://thinkinglabs.io/talks/xpdays-ukraine-2017-feature-branching-is-evil'
   - title: XP 2017
     year: 2017
-    link: 'https://speakerdeck.com/tdpauw/xp2017-feature-branching-is-evil'
+    link: 'http://thinkinglabs.io/talks/xp-2017-feature-branching-is-evil'
   - title: Continuous Delivery Conference NL
     year: 2016
     link: 'http://thinkinglabs.io/talks/cdconfnl-2016-feature-branching-is-evil'
@@ -67,17 +73,32 @@ training:
   - title: BREWT Meetup
   - title: Docker Belgium Meetup
   - title: Domain Driven Design BE Meetup
-  - title: Pipeline 2018 (Upcoming)
+  - title: Lean Agile Scotland (Upcoming)
+    city: Edinburgh
+    year: 2018
+  - title: SoCraTes Germany (Upcoming)
+    city: Soltau
+    year: 2018
+  - title: Journée Agile
+    city: Charleroi
+    year: 2018
+  - title: NewCrafts
+    city: Paris
+    year: 2018
+  - title: CITCON
+    city: Vienna
+    year: 2018
+  - title: Pipeline
     city: London
     year: 2018
-  - title: Agile India 2018 (Upcoming)
+  - title: Agile India
     city: Bengaluru
     year: 2018
   - title: Visual Facilitation with bikablo
     organisation: Pyxis
     city: Ghent
     year: 2017
-  - title: XPDays Ukraine 2017
+  - title: XPDays Ukraine
     year: 2017
   - title: SoCraTes France
     year: 2017
