@@ -27,6 +27,9 @@ languages:
   - english: professional
 
 conferences:
+  - title: Agile & Automation Days (Upcoming)
+    year: 2018
+    link: 'http://aadays.pl/speakers/thierry-de-pauw/'
   - title: Lean Agile Scotland (Upcoming)
     year: 2018
     link: 'http://leanagile.scot/2018/sessions/index.php?session=31'
