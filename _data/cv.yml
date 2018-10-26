@@ -236,13 +236,13 @@ highlights: |
 
 experiences:
   - company: World Health Organisation
-    period: May 2018 - Present
+    period: May 2018 - Sept 2018
     title: Lead Developer
     description:
       Helping them define a roadmap for the rewrite of one of their health services costing tools.
 
   - company: La Chambre - De Kamer - The Belgian Chamber of Representatives
-    period: Jan 2018 - Present
+    period: Jan 2018 - Jun 2018
     title: DevOps consultant
     description:
       Helping the IT departement of The Chamber to get High Availability and Resilience in the context of a paperless parliament.
