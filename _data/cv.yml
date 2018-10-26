@@ -235,6 +235,12 @@ highlights: |
   - Occasional conference speaker
 
 experiences:
+  - company: SFPD - Belgian Federal Pensions Service
+    period: Sept 2018 - Present
+    title: Continuous Delivery coach
+    description:
+      Helping SFPD to reduce their lead time and the stability of their software delivery.
+
   - company: World Health Organisation
     period: May 2018 - Sept 2018
     title: Lead Developer
