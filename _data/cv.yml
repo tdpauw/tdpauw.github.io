@@ -27,7 +27,25 @@ languages:
   - english: professional
 
 conferences:
-  - title: Agile & Automation Days (Upcoming)
+  - title: XPDays Benelux (Upcoming)
+    year: 2020
+  - title: FlowCon (Upcoming)
+    year: 2020
+  - title: Lean Agile Exchange (Upcoming)
+    year: 2020
+  - title: ScanAgile
+    year: 2020
+  - title: DevTernity
+    year: 2019
+  - title: XPDays Benelux
+    year: 2019
+  - title: LeSS Conference Munich
+    year: 2019
+  - title: Expand Conf
+    year: 2019
+  - title: OSDC
+    year: 2019
+  - title: Agile & Automation Days
     year: 2018
     link: 'http://aadays.pl/speakers/thierry-de-pauw/'
   - title: Lean Agile Scotland (Upcoming)
