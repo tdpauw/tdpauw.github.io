@@ -94,6 +94,9 @@ training:
   - title: BREWT Meetup
   - title: Docker Belgium Meetup
   - title: Domain Driven Design BE Meetup
+  - title: Work Together Anywhere
+    city: Remote
+    year: 2020
   - title: Lean Agile Scotland 
     city: Edinburgh
     year: 2019
