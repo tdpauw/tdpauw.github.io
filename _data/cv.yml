@@ -226,17 +226,27 @@ summary: |
 
   I am the founder of [ThinkingLabs](http://thinkinglabs.io), a consultancy around Continuous Integration and Continuous Delivery.
 
-  And I am an occasional speaker at international conferences about everything Continuous Delivery.
+  Occasionally I speak at international conferences about all things Continuous Delivery.
 
 highlights: |
-  - Helps teams and organisations adopting the required technological and organisational changes to sustainably deliver higher quality products at higher speed, at reduced costs, reduced risks and with a higher job satisfaction and less burn-outs
+  - Helps teams and organisations adopting the required technological and organisational changes to sustainably deliver higher quality products at higher speed, reduced costs, reduced risks and with a higher job satisfaction and less burn-outs
   - Continuous Integration and Continuous Delivery consultant and coach
   - Experienced Lean and XP Software Engineer
   - Occasional conference speaker
 
 experiences:
+  - company: PaxFamilia
+    period: Nov 2018 - Present
+    title: Senior Engineer
+    description: |
+      Helping with new functionality.
+      Setting up infrastructure. Migrating between cloud providers.
+      Making sure technology comply with legal.
+      Keep an eye on security.
+      Keep an eye on compliance and audit.
+
   - company: SFPD - Belgian Federal Pensions Service
-    period: Sept 2018 - Present
+    period: Sept 2018 - Sept 2019
     title: Continuous Delivery coach
     description:
       Helping SFPD to reduce their lead time and the stability of their software delivery.
@@ -245,13 +255,13 @@ experiences:
     period: May 2018 - Sept 2018
     title: Lead Developer
     description:
-      Helping them define a roadmap for the rewrite of one of their health services costing tools.
+      Helping WHO define a roadmap for the rewrite of one of their health services costing tools.
 
   - company: La Chambre - De Kamer - The Belgian Chamber of Representatives
     period: Jan 2018 - Jun 2018
     title: DevOps consultant
     description:
-      Helping the IT departement of The Chamber to get High Availability and Resilience in the context of a paperless parliament.
+      Helping the IT department of The Chamber to get High Availability and Resilience in the context of a paperless parliament.
 
   - company: Barco
     period: Sept 2017 - May 2018
