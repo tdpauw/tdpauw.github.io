@@ -94,19 +94,22 @@ training:
   - title: BREWT Meetup
   - title: Docker Belgium Meetup
   - title: Domain Driven Design BE Meetup
-  - title: Domain Driven Design Europe (Upcoming)
+  - title: Lean Agile Scotland 
+    city: Edinburgh
+    year: 2019
+  - title: Domain Driven Design Europe
     city: Amsterdam
     year: 2019
-  - title: SoCraTes France (Upcoming)
+  - title: SoCraTes France
     city: Orange
     year: 2018
-  - title: Agile & Automation Days (Upcoming)
+  - title: Agile & Automation Days
     city: Krakow
     year: 2018
-  - title: Lean Agile Scotland (Upcoming)
+  - title: Lean Agile Scotland
     city: Edinburgh
     year: 2018
-  - title: SoCraTes Germany (Upcoming)
+  - title: SoCraTes Germany
     city: Soltau
     year: 2018
   - title: Journée Agile
